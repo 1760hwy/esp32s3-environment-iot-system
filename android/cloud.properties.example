@@ -1,0 +1,5 @@
+# Copy to cloud.properties, then fill your own values.
+# Java Properties format: use \ to escape a literal backslash.
+NLE_ACCOUNT=
+NLE_PASSWORD=
+NLE_DEVICE_ID=

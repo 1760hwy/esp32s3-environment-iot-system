@@ -1,0 +1,21 @@
+2026-10-24 Asia/Shanghai
+Audited independent publication copy.
+Public candidate files: 126
+Private source values compared: 13
+Local Markdown references checked: 14
+Audit findings: 0
+NAS runtime files: 4/4 match original archive (normalized line endings)
+
+Firmware build:
+Bootloader binary size 0x5280 bytes. 0x2d80 bytes (36%) free.
+nlecloud_environment.bin binary size 0xe47d0 bytes. Smallest app partition is 0x100000 bytes. 0x1b830 bytes (11%) free.
+Project build complete. To flash, run:
+
+Android final build:
+BUILD SUCCESSFUL in 16s
+JVM tests: 4 tests, 0 failures, 0 errors.
+Lint XML: 11 warnings, 0 errors.
+NAS parser tests: 7 tests passed (offline HTTP/DB import stubs).
+Compose configuration: docker compose config --quiet, exit 0.
+Docker daemon unavailable; container build/run and PostgreSQL execution were not tested.
+No firmware flashing, hardware resetting or live account calls during validation.

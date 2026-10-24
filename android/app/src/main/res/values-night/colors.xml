@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<resources>
+    <color name="background">#101C19</color>
+    <color name="surface">#192A24</color>
+    <color name="text_primary">#E8F3EB</color>
+    <color name="text_secondary">#A8BEB1</color>
+    <color name="outline">#30463B</color>
+    <color name="accent">#B7E9C4</color>
+    <color name="accent_soft">#294D39</color>
+    <color name="hero">#214B39</color>
+    <color name="hero_text">#F0FFF6</color>
+    <color name="hero_muted">#BED7C7</color>
+    <color name="mint">#BFEBCB</color>
+    <color name="temperature">#B7E9C4</color>
+    <color name="humidity">#8FCBE2</color>
+    <color name="light">#E7C38A</color>
+</resources>

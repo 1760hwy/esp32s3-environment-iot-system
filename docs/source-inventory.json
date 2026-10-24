@@ -1,0 +1,537 @@
+[
+  {
+    "path": "android/README.md",
+    "sha256_lf_normalized_text": "556d60b98eb73f05ef4b353fb7a9a607111530a12525d8d31e5ff71a32590f9f",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/build.gradle.kts",
+    "sha256_lf_normalized_text": "619c0d494099965f9870bc8b408539710926cbc6eb31438d0c8e3162d7806d74",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/androidTest/java/com/example/iot3/ExampleInstrumentedTest.java",
+    "sha256_lf_normalized_text": "29ee134856a34ca9a40690cda96a9323ca967a9399bea4594e5129a262411f1d",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/androidTest/java/com/example/iot3/FrontendFlowTest.java",
+    "sha256_lf_normalized_text": "ae89ed0ef0f3f888c3282859db531b6d404802902100f648adf60cdeed5c1c5e",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/androidTest/java/com/example/iot3/network/CloudModelTest.java",
+    "sha256_lf_normalized_text": "d2ecdaede1bc1a2a98434bc276e00aae5e41468a3c5c1e2f3144af470ac66c54",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/androidTest/java/com/example/iot3/network/CloudPollingTest.java",
+    "sha256_lf_normalized_text": "d94fc811a765bf6d5e4d1aa81b4213c8893a03c3833a2e85143a7dcf1061400a",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/androidTest/java/com/example/iot3/network/NleSensorMapperTest.java",
+    "sha256_lf_normalized_text": "2b47f61257ceac7e023dfb788b334041669646e405ed8570b815cfa750700536",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/main/AndroidManifest.xml",
+    "sha256_lf_normalized_text": "0656fb3843dbda7a696d3b59738097bf1b91ca504baa387efc4cb6e0197a4ed1",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/main/java/com/example/iot3/MainActivity.java",
+    "sha256_lf_normalized_text": "eeb798d924f7d4aaf102514be4759437dd6e30c5cd82ca211e72a661fa227662",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/main/java/com/example/iot3/data/EnvironmentData.java",
+    "sha256_lf_normalized_text": "34dd5893ed6569675da0a0fdd422a20fcdb0e293a4efd7e016336025e983e9e7",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/main/java/com/example/iot3/data/MonitorViewModel.java",
+    "sha256_lf_normalized_text": "f63362409bbdddf31500e7325cb8fbe26e0b7b45f68536ba339765df57f38fc9",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/main/java/com/example/iot3/network/NleCloudApi.java",
+    "sha256_lf_normalized_text": "8cef9e3fd1ba601e8484d5136c5d7d69a6da5add82552f7451e1108f9e90da13",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/main/java/com/example/iot3/network/NleCloudSource.java",
+    "sha256_lf_normalized_text": "d346e27c931390083e241f6a0e318b82cdf9ef9768c64654a7de4f402bcb658d",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/java/com/example/iot3/network/NleSensorMapper.java",
+    "sha256_lf_normalized_text": "93eb41462789eef22daf7bca23d23b546a3b80c61771cacc9a4463552daeb1f5",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/main/java/com/example/iot3/network/ReadingSource.java",
+    "sha256_lf_normalized_text": "a754de01e930eeaba8a3eb97b7a32442f3866ef3f03547baeb59f5df35e4d750",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/main/java/com/example/iot3/ui/AmbientView.java",
+    "sha256_lf_normalized_text": "c82d414fd5ddc6234c1a11487ade6054791012d8bda4ea9706dae394f02dc2e3",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/main/java/com/example/iot3/ui/DeviceSettings.java",
+    "sha256_lf_normalized_text": "715d425d6cd08d3a6d22cda675da375311e7d84ca82e2e2a5ffb54180e412064",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/java/com/example/iot3/ui/HistoryPanel.java",
+    "sha256_lf_normalized_text": "711803a81c9a283f0fcf864df3f93fa27050447ca76706a96623ddb2e1e4c7b7",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/java/com/example/iot3/ui/TrendChartView.java",
+    "sha256_lf_normalized_text": "d65b7973ca34e13ab8127664051ede91720cc640116fdb279980252a8a993501",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/main/keepRules/rules.keep",
+    "sha256_lf_normalized_text": "cd9f36ade2d8604e1b7cf24eff5b171f9c0816c0aa013ba7eb55be4fe2e1dac7",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/color/chip_background.xml",
+    "sha256_lf_normalized_text": "22ad7699606e2b335a8d8b7a8876df41040668b1d7e717365d2f515129caae14",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/main/res/color/nav_color.xml",
+    "sha256_lf_normalized_text": "fb77a55ce675caee3fad8c5b856ecbe2c3f8b292134d33d37212627fc7def351",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/drawable/bg_badge.xml",
+    "sha256_lf_normalized_text": "62dd67bb11cc82c91c28f25dd3867485bc4c04ee093f29aeaf66b1b88e35fbad",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/drawable/ic_arrow.xml",
+    "sha256_lf_normalized_text": "7824ead362d8199596833277ef3f2aab3234a0e6d138eb3c657a254dda844d2c",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/drawable/ic_chip.xml",
+    "sha256_lf_normalized_text": "ae3c5b8920d7d7b2011c5b5bdf0f7f73a54ed4087fb7126e03015e38da66686e",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/drawable/ic_device.xml",
+    "sha256_lf_normalized_text": "cff167ceddb3b46b868aa94c77d10ac6eaea7dc516196f70b732c6a8c50dd09a",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/drawable/ic_drop.xml",
+    "sha256_lf_normalized_text": "625e4cfcca05e9784212626aed45729084d494e09ba337611be89c9a15ddb788",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/drawable/ic_history.xml",
+    "sha256_lf_normalized_text": "d457d968f14df6ba81c4205da6c19272a0a92703ce4657c2ab47b645bca90820",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/drawable/ic_home.xml",
+    "sha256_lf_normalized_text": "6535e1ee6d592c403dc3a6f50436197338c7da93a02f584e7cde569967bb9f74",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/drawable/ic_launcher_background.xml",
+    "sha256_lf_normalized_text": "ed423c73a6f40a4d2909f0901e60527b3a807cd59e1b5593bcaae1808b1c6321",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/main/res/drawable/ic_launcher_foreground.xml",
+    "sha256_lf_normalized_text": "01d1a6a6c1234eb7fe270d097eb283d72b9c95ae5118886f1b6573aad280f1f7",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/main/res/drawable/ic_moon.xml",
+    "sha256_lf_normalized_text": "35568fd4f6ecd7be4b2c8d61ad39c65ffbd7c26f9f665cf2fb79bdb02a5381ad",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/drawable/ic_refresh.xml",
+    "sha256_lf_normalized_text": "fffdcd5108eb18cab5132008daafaf86e1f5080a02c9a557a85fd0446160ae62",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/drawable/ic_sun.xml",
+    "sha256_lf_normalized_text": "6ee367a598defa987a6ef67c31738bedb5c77e591111738e5a60dd9e34e6b8ac",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/drawable/ic_temp.xml",
+    "sha256_lf_normalized_text": "c3b4a72d2c991bbac0ec1e40c1d2d8ed4d6ffae7f9d384b75186cf9e2abdb890",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/layout/activity_main.xml",
+    "sha256_lf_normalized_text": "c457c05ebcba6931e0ad14166107f02a4cf60f3e34a266dca126dd21b98a53a9",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/main/res/layout/page_dashboard.xml",
+    "sha256_lf_normalized_text": "85be0494b71914a7beb03734eede30c2058582971fe3c1b39d7eadf3f9e65c57",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/layout/page_devices.xml",
+    "sha256_lf_normalized_text": "92197aa9fb95b0ed95ea5ff923c0e8dbd2958c6dd4d2ef711b231ed8e8e7655b",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/layout/page_history.xml",
+    "sha256_lf_normalized_text": "dc9da79b0e583451b12e8f7424461b1b859c422a604f532659305b5592b67341",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/menu/bottom_nav.xml",
+    "sha256_lf_normalized_text": "4e3b9323508f49fdb73847831bc20bb24e9caacaf21efba2e216e5058ace4147",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml",
+    "sha256_lf_normalized_text": "88f7653499ef524126ea5018a99baf9cc3269e7e584d6205dfdd76db39f39cc0",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml",
+    "sha256_lf_normalized_text": "88f7653499ef524126ea5018a99baf9cc3269e7e584d6205dfdd76db39f39cc0",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/main/res/mipmap-hdpi/ic_launcher.webp",
+    "sha256_lf_normalized_text": "dd00996198640ed28fbc09cdcd7a3807cf8707f3eb255b659634da3ca6a6ff01",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp",
+    "sha256_lf_normalized_text": "1ed73f5341a69d3b41c7e02e126803f50cc8c3284adf4bbb737f0c93577aef07",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/mipmap-mdpi/ic_launcher.webp",
+    "sha256_lf_normalized_text": "846219e6f72fe9a6c104ca8919cbee36a101e7d2ff8da9da67b689a5888f060d",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp",
+    "sha256_lf_normalized_text": "4e2c58b91de01130e6479e00cbbaaf6e77cd961dd2c8e303cf13cd077fa92632",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/mipmap-xhdpi/ic_launcher.webp",
+    "sha256_lf_normalized_text": "398340dad816fc9a6338cb151a8cf1e45b926f9bfb70628b24c4bd2523cc94d4",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp",
+    "sha256_lf_normalized_text": "91b490aef86574901137f0a252272e1f1add99c1ad709e0696ed68929b88d261",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp",
+    "sha256_lf_normalized_text": "58ae87fa0c5b5d1562d27fd648d2c061553fe20e3ed570bde588162d01ea7a27",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp",
+    "sha256_lf_normalized_text": "3009fad079f5772f30ecd767f98924367fbe0f81c30048d672d4fda2d5ca7d12",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
+    "sha256_lf_normalized_text": "f98fef5bc3bfe5b65692c40ad1cbae2bec4faf9f1b249c397626740db71b62d8",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
+    "sha256_lf_normalized_text": "5faf033745c8c882c43bb1b372d4e4a5890caec63d9892a2e756c954108b85dc",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/values-night/colors.xml",
+    "sha256_lf_normalized_text": "24a7475338aede3b9ce34b81a898d19a07cce9b86995b75540359ebaf9cbfad2",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/values-night/themes.xml",
+    "sha256_lf_normalized_text": "f92760434af7d3f23acf2c348bb7f6dd823f888f93a5dedaec90b662aadcbceb",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/values-sw600dp/dimens.xml",
+    "sha256_lf_normalized_text": "dc33625b5c88eebffe5370185f4b5a0b62ac064a03376cd4cb50a5c50ecedb0e",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/values/colors.xml",
+    "sha256_lf_normalized_text": "cd8ada4d3c72f270ca2a2d9433ccf4f1459c55800188a146cf285773c48f1e30",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/values/dimens.xml",
+    "sha256_lf_normalized_text": "22103bf4d4be502b8d9df56767d897192ad224c5b0b6074e8911a8cf21054f77",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/values/strings.xml",
+    "sha256_lf_normalized_text": "80162eec437d3eff44a3bed0c9c3a3899e3548ffb09e86bf442afdca9ccc21e4",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/values/themes.xml",
+    "sha256_lf_normalized_text": "039fbbba03676a93e4c5982e77bcc88a47623b264a92d15a59183774985cc80c",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/app/src/main/res/xml/backup_rules.xml",
+    "sha256_lf_normalized_text": "6cf1a27e6807b1d24e41d3fbe7ddc1bfe1f42226027964f6eaf477d71b43b283",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/main/res/xml/data_extraction_rules.xml",
+    "sha256_lf_normalized_text": "cb1fc47ab4a984530ed60e0e6ee638929c3038290e7e7e0b4b03a3a30fbe7381",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/test/java/com/example/iot3/ExampleUnitTest.java",
+    "sha256_lf_normalized_text": "6f4dfa66131e74813a7f71ce37775380d32e3ac4691deb5af3213e7861497a77",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/app/src/test/java/com/example/iot3/data/EnvironmentDataTest.java",
+    "sha256_lf_normalized_text": "ed3c4efeace18a7379c2d8516dd30482bc99b5270c4749900e8883532e1561b5",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/build.gradle.kts",
+    "sha256_lf_normalized_text": "5dad2d59c54beb7d7801e06e1c795456d1bea58c0ccbeddfce159cd8f58c2fa8",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/cloud.properties.example",
+    "sha256_lf_normalized_text": "d2afb5841ee72f412d6530879e9bf6c9b3a8a5e7bf54402ef29edc53ff094942",
+    "same_as_working_source": false
+  },
+  {
+    "path": "android/gradle.properties",
+    "sha256_lf_normalized_text": "42795f0af73d122cd68d7a4920e86a8158eaf53f1f354d4aec3bc246b332c460",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/gradle/gradle-daemon-jvm.properties",
+    "sha256_lf_normalized_text": "6c13aa5ba36690ccfbbb25a8807d01d98c15833e446d7ae82ddc726472cb8ef7",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/gradle/libs.versions.toml",
+    "sha256_lf_normalized_text": "173a9fb35ccfa2dc48a70562a1922d667ee09d9cd3d173fd0bac6a1a192407bc",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/gradle/wrapper/gradle-wrapper.jar",
+    "sha256_lf_normalized_text": "76805e32c009c0cf0dd5d206bddc9fb22ea42e84db904b764f3047de095493f3",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/gradle/wrapper/gradle-wrapper.properties",
+    "sha256_lf_normalized_text": "1850117fbe5d728682540238571e1da4b84c42ce3cbf8f686826a759af716794",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/gradlew",
+    "sha256_lf_normalized_text": "3238afb2aed5cb16eb7d6718077e7138059108f007b54179e9cc157c5a6e0e89",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/gradlew.bat",
+    "sha256_lf_normalized_text": "94102713eb8fb22d032397924c0f38ab2da783ba60d07054339f1190a0c4e2cd",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/settings.gradle.kts",
+    "sha256_lf_normalized_text": "7149bcd88ded4e76cba262933aa5e6b4434d5476b298b516d4d22c900446b8cf",
+    "same_as_working_source": true
+  },
+  {
+    "path": "android/界面修改指南.md",
+    "sha256_lf_normalized_text": "a26c74aa6a8f9c70587da22294fb48d1f7797e5ba3091cea53d07c044d638025",
+    "same_as_working_source": false
+  },
+  {
+    "path": "firmware/CMakeLists.txt",
+    "sha256_lf_normalized_text": "3fc79d19bd9d0f027d7a5af283f62f9c35195c080fadf88d916f1d5e55982ad1",
+    "same_as_working_source": false
+  },
+  {
+    "path": "firmware/README.md",
+    "sha256_lf_normalized_text": "bfecde57a698afe834f8d19115a6dc209474c829160353b0bb5e8e26bccdf6c7",
+    "same_as_working_source": false
+  },
+  {
+    "path": "firmware/dependencies.lock",
+    "sha256_lf_normalized_text": "e4e06c5d09c83dabf84a9f6c6f273562adfab134a32c0169b1bf8ca5baaf8c25",
+    "same_as_working_source": false
+  },
+  {
+    "path": "firmware/main/BSP/ath20/ath20.c",
+    "sha256_lf_normalized_text": "7104677cbe5879a18d642a4e3efab8e8b39454257e5851fa4dd5c56430b00014",
+    "same_as_working_source": true
+  },
+  {
+    "path": "firmware/main/BSP/ath20/include/ath20.h",
+    "sha256_lf_normalized_text": "d894b0991a41b3a0525efe7b18c104a95d53712ea053e42b1aa4a79c1493754f",
+    "same_as_working_source": true
+  },
+  {
+    "path": "firmware/main/BSP/bh1750/include/zh_bh1750.h",
+    "sha256_lf_normalized_text": "b88c6f852a8e7fec0bfa44db99c58c6ea37046651f12a3d3d68bc7d60543b9db",
+    "same_as_working_source": true
+  },
+  {
+    "path": "firmware/main/BSP/bh1750/zh_bh1750.c",
+    "sha256_lf_normalized_text": "df21c5e9aa1f8fdb91701c771feda6bfad43b6f93deb6b7d7dd9c81744ac6dd7",
+    "same_as_working_source": true
+  },
+  {
+    "path": "firmware/main/BSP/i2c/bsp_i2c.c",
+    "sha256_lf_normalized_text": "a5d61d1fc67e698e952d560a636486001fd91e9ae07f704a97cfa7cdea620e69",
+    "same_as_working_source": true
+  },
+  {
+    "path": "firmware/main/BSP/i2c/include/bsp_i2c.h",
+    "sha256_lf_normalized_text": "273bb1ff4d69b6806ff7ab813754b693974e62c66830e44d52df3a8973c9aebb",
+    "same_as_working_source": true
+  },
+  {
+    "path": "firmware/main/BSP/network/app_mqtt.c",
+    "sha256_lf_normalized_text": "88bf7324904b8d3ec4addb088b1128fcaeeb548a6a4c1437071147d945a65de7",
+    "same_as_working_source": false
+  },
+  {
+    "path": "firmware/main/BSP/network/app_wifi.c",
+    "sha256_lf_normalized_text": "c74c4749ceaf043ab3d7f7cb60ccd8cdcfff12eef911a98bd016a443a0ab2cf6",
+    "same_as_working_source": false
+  },
+  {
+    "path": "firmware/main/BSP/network/include/app_mqtt.h",
+    "sha256_lf_normalized_text": "c3e08494ef4bf89b23e32058f165aea8f10bf5f812bc0f198908a70ce2e4fafb",
+    "same_as_working_source": true
+  },
+  {
+    "path": "firmware/main/BSP/network/include/app_wifi.h",
+    "sha256_lf_normalized_text": "2c671de59d111d9ba8ceb77fe5c34d157bb8c0429e860ec6ab9394d12090dbe6",
+    "same_as_working_source": true
+  },
+  {
+    "path": "firmware/main/BSP/ss1306/include/bdf_font_emoticon_22x21.h",
+    "sha256_lf_normalized_text": "db2b3ea48e93caa5f33e65bbff0a787e08b5d90afb7b7288220391fae1c6b443",
+    "same_as_working_source": true
+  },
+  {
+    "path": "firmware/main/BSP/ss1306/include/bdf_font_nenr12_21x26.h",
+    "sha256_lf_normalized_text": "e6dbf6bcf04f737ae48d2e0a0ffe70091fdbbc8e1424cb3db3c8c83bb090ce96",
+    "same_as_working_source": true
+  },
+  {
+    "path": "firmware/main/BSP/ss1306/include/bitmap_icon.h",
+    "sha256_lf_normalized_text": "bc904b1aa0df5f5fbb743bcab539ca46c07fd0e625ef649dab3565f4cd14f93e",
+    "same_as_working_source": true
+  },
+  {
+    "path": "firmware/main/BSP/ss1306/include/font_latin_8x8.h",
+    "sha256_lf_normalized_text": "9d2e99543e5d29ddaed9046470145b959fb426d1e964ccf2cbc4e513c5436f44",
+    "same_as_working_source": true
+  },
+  {
+    "path": "firmware/main/BSP/ss1306/include/ssd1306.h",
+    "sha256_lf_normalized_text": "cde85b7742dcc0158e94b7eb983939f85223663fc2c6ec8f736e7a9c4812853d",
+    "same_as_working_source": true
+  },
+  {
+    "path": "firmware/main/BSP/ss1306/include/ssd1306_version.h",
+    "sha256_lf_normalized_text": "602faae592af82e8e7701580ade524229dfa47ffde733bcabe3e90d72197ccb6",
+    "same_as_working_source": true
+  },
+  {
+    "path": "firmware/main/BSP/ss1306/ssd1306.c",
+    "sha256_lf_normalized_text": "7c2d7b78956dee7952e24793d6c3cfc18a3990a72fddd66f2027c9866c4430dd",
+    "same_as_working_source": true
+  },
+  {
+    "path": "firmware/main/CMakeLists.txt",
+    "sha256_lf_normalized_text": "795fc214867338ac6caf51b819f9abb1da7afd7fa908a842e38301ac08c9b7bd",
+    "same_as_working_source": false
+  },
+  {
+    "path": "firmware/main/app_secrets.example.h",
+    "sha256_lf_normalized_text": "20619fafaa6d6c2e20eec8e9f9583ecb975fb4ad5fe93b45bf7ad2cee0aa2bc5",
+    "same_as_working_source": false
+  },
+  {
+    "path": "firmware/main/idf_component.yml",
+    "sha256_lf_normalized_text": "7499e2a2ca8416f32e627e638a0964464460a52ade740ec46f8603d680829525",
+    "same_as_working_source": false
+  },
+  {
+    "path": "firmware/main/main.c",
+    "sha256_lf_normalized_text": "63441364af8df88d7926011c35245caf4bed4b5ddd2a04ca5cf57aa0819c8757",
+    "same_as_working_source": true
+  },
+  {
+    "path": "firmware/sdkconfig.defaults",
+    "sha256_lf_normalized_text": "f453907a5cdf24cf284f89931cc1c33b1662de92a60cea894d6185b1a3a9be1f",
+    "same_as_working_source": false
+  },
+  {
+    "path": "server/Dockerfile",
+    "sha256_lf_normalized_text": "353af0527fd5ddad79e8bfd89c1393aee10d63ff732a3f338cdf22a9278bfc1d",
+    "same_as_working_source": false
+  },
+  {
+    "path": "server/README.md",
+    "sha256_lf_normalized_text": "6ce1f18bd9148e3cb30e1564fc1ec807e65c016c0052bd8e8c15330e0bafe63c",
+    "same_as_working_source": false
+  },
+  {
+    "path": "server/compose.yaml",
+    "sha256_lf_normalized_text": "2e39b14a07e787e566fd861ef03057558d1f8aba5d410995f67e78e416d0c5af",
+    "same_as_working_source": false
+  },
+  {
+    "path": "server/config.env.example",
+    "sha256_lf_normalized_text": "a92b0a0e897d4c5bbf2a94ec3e5787b59ceeb2809d83583bf044ab98b876808c",
+    "same_as_working_source": false
+  },
+  {
+    "path": "server/requirements.txt",
+    "sha256_lf_normalized_text": "d89e3d531542ebf7a37d9247946c541938c8556ec9642f5b94a57ea160f33d1b",
+    "same_as_working_source": false
+  },
+  {
+    "path": "server/schema.sql",
+    "sha256_lf_normalized_text": "31ab30880c60ffb0a18e78406eca9ea32eb1eb4cfacfcb469652bdd565080fbd",
+    "same_as_working_source": false
+  },
+  {
+    "path": "server/sync.py",
+    "sha256_lf_normalized_text": "730369868f975d360e9c3ff9010ff6cf52eccc454fdda6c138c433bea2fd30d4",
+    "same_as_working_source": false
+  },
+  {
+    "path": "server/tests/test_sync.py",
+    "sha256_lf_normalized_text": "cb8628b9e5a3a178936c00f5b2ca60c9ff4a04dfc629547832192d2d9b00e11a",
+    "same_as_working_source": false
+  }
+]

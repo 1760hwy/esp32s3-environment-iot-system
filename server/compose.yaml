@@ -1,0 +1,10 @@
+services:
+  nle-sync:
+    build: .
+    container_name: nlecloud-pg-sync
+    restart: unless-stopped
+    env_file:
+      - config.env
+    environment:
+      PYTHONUNBUFFERED: "1"
+    # 只主动连接 NLECloud 和 PostgreSQL；不需要开放端口。
