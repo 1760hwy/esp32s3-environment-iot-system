@@ -6,6 +6,16 @@ ESP32-S3 + AHT20 + BH1750 + SSD1306 + 新大陆云 + Android Java/XML + PostgreS
 
 [完整中文教程 / CSDN 稿](docs/CSDN_ESP32-S3多参数环境监测与物联网云平台设计.md) · [验证记录](docs/VALIDATION.md) · [安全配置](SECURITY.md) · [许可与第三方例外](THIRD_PARTY.md)
 
+## 项目实物与运行界面
+
+| ESP32-S3 硬件实物 | Android 手机监测界面 |
+| :---: | :---: |
+| <img src="docs/assets/hardware-photo.jpg" width="340" alt="ESP32-S3 与传感器面包板实物"> | <img src="docs/assets/android-dashboard-real.png" width="280" alt="Android 环境监测首页真实截图"> |
+
+**新大陆云平台：**设备和温度、湿度、光照数据展示。
+
+![新大陆云平台设备与传感器数据页面](docs/assets/nlecloud-dashboard.png)
+
 ![系统架构](docs/assets/architecture.png)
 
 ## 功能
